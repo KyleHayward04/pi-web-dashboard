@@ -1,4 +1,4 @@
-# Raspberry Pi CPU Dashboard
+# Raspberry Pi Dashboard
 
 A simple Flask web app that runs on a Raspberry Pi and shows basic system stats in a local browser.
 
